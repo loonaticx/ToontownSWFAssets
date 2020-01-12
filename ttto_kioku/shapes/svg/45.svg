@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="16.1px" width="4.9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 2.45, 8.05)">
+    <path d="M1.9 -3.95 L2.2 0.0 Q2.15 3.2 1.55 5.5 0.9 7.8 0.0 7.8 -0.95 7.8 -1.55 5.5 L-1.9 3.9 1.9 -3.95 -1.9 3.9 -2.2 0.0 Q-2.2 -3.25 -1.55 -5.55 -0.95 -7.85 0.0 -7.8 0.9 -7.85 1.55 -5.55 L1.9 -3.95" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M1.9 -3.95 L-1.9 3.9" fill="none" stroke="#585b5c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M-1.9 3.9 L-1.55 5.5 Q-0.95 7.8 0.0 7.8 0.9 7.8 1.55 5.5 2.15 3.2 2.2 0.0 L1.9 -3.95 M-1.9 3.9 L-2.2 0.0 Q-2.2 -3.25 -1.55 -5.55 -0.95 -7.85 0.0 -7.8 0.9 -7.85 1.55 -5.55 L1.9 -3.95 Z" fill="none" stroke="#485253" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+  </g>
+  <defs>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0027, 0.0, 0.0, 0.009, -1.1, -0.4)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#9b9fa4"/>
+      <stop offset="1.0" stop-color="#5d6268"/>
+    </radialGradient>
+  </defs>
+</svg>

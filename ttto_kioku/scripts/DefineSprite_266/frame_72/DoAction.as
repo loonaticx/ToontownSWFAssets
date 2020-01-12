@@ -1,0 +1,14 @@
+wallL._x = defaultPos[0] + Math.random() * 2 - 1;
+wallL._y = defaultPos[1] + Math.random() * 2 - 1;
+wallR._x = defaultPos[2] + Math.random() * 2 - 1;
+wallR._y = defaultPos[3] + Math.random() * 2 - 1;
+rnd = Math.random() * 2 - 1;
+doorL._x = defaultPos[4] + rnd;
+doorR._x = defaultPos[6] + rnd;
+rnd = Math.random() * 2 - 1;
+doorL._y = defaultPos[5] + rnd;
+doorR._y = defaultPos[7] + rnd;
+floorSignMC._x = defaultPos[8] + Math.random() * 2 - 1;
+floorSignMC._y = defaultPos[9] + Math.random() * 2 - 1;
+BG._x = defaultPos[10] + Math.random() * 2 - 1;
+BG._y = defaultPos[11] + Math.random() * 2 - 1;
