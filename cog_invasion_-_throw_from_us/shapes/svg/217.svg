@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="34.0px" width="34.15px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -48.25, -149.0)">
+    <path d="M80.45 149.1 Q80.95 149.45 81.45 149.6 L81.65 149.95 81.95 150.45 81.95 150.8 82.15 151.3 50.55 182.9 50.05 182.7 49.7 182.7 49.2 182.4 48.7 181.9 48.35 181.2 48.35 180.85 80.1 149.1 80.45 149.1" fill="#a09e9e" fill-rule="evenodd" stroke="none"/>
+    <path d="M80.45 149.1 Q80.95 149.45 81.45 149.6 L81.65 149.95 81.95 150.45 81.95 150.8 82.15 151.3 50.55 182.9 50.05 182.7 49.7 182.7 49.2 182.4 48.7 181.9 48.35 181.2 48.35 180.85 80.1 149.1 80.45 149.1 Z" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M50.55 182.9 L82.15 151.3 82.15 180.85 82.0 181.2 82.0 181.55 81.65 181.9 81.45 182.2 81.15 182.4 80.8 182.75 80.45 182.75 80.1 182.9 50.55 182.9" fill="#808080" fill-rule="evenodd" stroke="none"/>
+    <path d="M50.55 182.9 L82.15 151.3 82.15 180.85 82.0 181.2 82.0 181.55 81.65 181.9 81.45 182.2 81.15 182.4 80.8 182.75 80.45 182.75 80.1 182.9 50.55 182.9 Z" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M49.2 149.45 L49.7 149.25 50.05 149.1 80.1 149.1 48.35 180.85 48.35 150.8 48.5 150.45 48.7 149.95 49.2 149.45" fill="#cfcfcd" fill-rule="evenodd" stroke="none"/>
+    <path d="M49.2 149.45 L49.7 149.25 50.05 149.1 80.1 149.1 48.35 180.85 48.35 150.8 48.5 150.45 48.7 149.95 49.2 149.45 Z" fill="none" stroke="#bfbfbf" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M54.4 157.7 L48.35 151.3 48.35 150.8 48.5 150.45 48.7 149.95 49.2 149.45 49.7 149.25 50.05 149.1 50.55 149.1 55.6 155.15 54.4 157.7" fill="#f1f0f0" fill-rule="evenodd" stroke="none"/>
+    <path d="M54.4 157.7 L48.35 151.3 48.35 150.8 48.5 150.45 48.7 149.95 49.2 149.45 49.7 149.25 50.05 149.1 50.55 149.1 55.6 155.15 54.4 157.7 Z" fill="none" stroke="#e0dfdf" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M76.9 174.3 L82.3 180.9 82.15 181.2 82.15 181.55 81.8 181.9 81.65 182.25 80.65 182.75 80.15 182.9 76.25 176.15 76.9 174.3" fill="#a09e9e" fill-rule="evenodd" stroke="none"/>
+    <path d="M76.9 174.3 L82.3 180.9 82.15 181.2 82.15 181.55 81.8 181.9 81.65 182.25 80.65 182.75 80.15 182.9 76.25 176.15 76.9 174.3 Z" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <path d="M77.95 152.65 L78.1 153.3 78.1 175.45 77.95 175.95 77.6 176.65 77.1 177.0 76.6 177.15 54.45 177.15 53.75 177.0 53.25 176.65 52.75 175.95 52.75 152.65 53.25 152.3 53.75 151.8 77.1 151.8 77.95 152.65" fill="#e0dfdf" fill-rule="evenodd" stroke="none"/>
+    <path d="M54.1 177.15 L54.1 151.8 58.65 151.8 58.65 177.15 54.1 177.15" fill="#d5d4d5" fill-rule="evenodd" stroke="none"/>
+    <path d="M61.4 151.8 L61.4 177.15 56.65 177.15 56.65 151.8 61.4 151.8" fill="#dbdbda" fill-rule="evenodd" stroke="none"/>
+    <path d="M63.9 151.8 L63.9 177.15 59.15 177.15 59.15 151.8 63.9 151.8" fill="#e2e1e0" fill-rule="evenodd" stroke="none"/>
+    <path d="M66.65 151.8 L66.65 177.15 61.9 177.15 61.9 151.8 66.65 151.8" fill="#e8e6e7" fill-rule="evenodd" stroke="none"/>
+    <path d="M69.35 151.8 L69.35 177.15 64.6 177.15 64.6 151.8 69.35 151.8" fill="#eeeded" fill-rule="evenodd" stroke="none"/>
+    <path d="M71.85 151.8 L71.85 177.15 67.1 177.15 67.1 151.8 71.85 151.8" fill="#f4f3f3" fill-rule="evenodd" stroke="none"/>
+    <path d="M74.2 151.8 L74.2 177.15 69.65 177.15 69.65 151.8 74.2 151.8" fill="#fafafa" fill-rule="evenodd" stroke="none"/>
+    <path d="M72.35 177.15 L72.35 151.8 76.9 151.8 76.9 177.0 76.75 177.15 72.35 177.15" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+    <path d="M77.9 152.65 L78.1 153.3 78.1 175.45 77.9 175.95 77.6 176.65 77.1 176.95 76.55 177.15 54.45 177.15 53.75 176.95 53.25 176.65 52.75 175.95 52.75 152.65 53.25 152.3 53.75 151.8 77.1 151.8 77.9 152.65 Z" fill="none" stroke="#cfcfcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+  </g>
+</svg>

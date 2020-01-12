@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="21.9px" width="32.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -1.6, -8.35)">
+    <path d="M32.8 9.85 L32.1 21.75 Q27.4 25.6 21.3 27.6 15.25 29.65 9.85 28.05 L3.1 20.4 32.8 9.85" fill="#896f69" fill-rule="evenodd" stroke="none"/>
+    <path d="M32.8 9.85 L3.1 20.4 9.85 28.05 Q15.25 29.65 21.3 27.6 27.4 25.6 32.1 21.75 L32.8 9.85 Z" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0"/>
+    <path d="M12.55 28.3 L8.7 22.9" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M15.45 28.5 L13.0 23.55" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M20.2 27.6 L18.6 22.65" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M24.9 25.8 L24.25 20.65" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M28.75 17.25 L28.75 23.35" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M30.3 15.9 L30.3 22.45" fill="none" stroke="#332e27" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+  </g>
+</svg>

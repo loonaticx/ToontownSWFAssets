@@ -1,0 +1,12 @@
+1;game_loop
+2;game_lose
+3;game_win
+4;underex
+6;alertscreen
+8;alert
+71;sub
+73;flemEngine
+76;bot
+82;torp1
+85;torp2
+86;mySound
