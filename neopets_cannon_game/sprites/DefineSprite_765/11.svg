@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="23.5px" width="23.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 11.75, 11.75)">
+    <use height="23.5" id="dot_mc" transform="matrix(0.7778, 0.0, 0.0, 0.7778, -9.1388, -9.1388)" width="23.5" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 11.75, 11.75)">
+      <use height="23.5" transform="matrix(1.0, 0.0, 0.0, 1.0, -11.75, -11.75)" width="23.5" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 11.75, 11.75)">
+      <path d="M8.3 -8.3 Q11.75 -4.85 11.75 0.0 11.75 4.8 8.3 8.25 L8.25 8.3 Q4.8 11.75 0.0 11.75 -4.85 11.75 -8.3 8.3 -11.75 4.85 -11.75 0.0 -11.75 -4.8 -8.3 -8.3 -4.8 -11.75 0.0 -11.75 4.85 -11.75 8.3 -8.3 M7.6 8.55 L7.55 8.6 7.7 8.55 7.6 8.55" fill="#000000" fill-rule="evenodd" stroke="none"/>
+      <path d="M6.15 6.15 Q3.6 8.75 0.0 8.75 -3.6 8.75 -6.2 6.15 -8.75 3.6 -8.75 0.0 -8.75 -3.6 -6.2 -6.2 -3.6 -8.75 0.0 -8.75 3.6 -8.75 6.15 -6.2 8.75 -3.6 8.75 0.0 8.75 3.6 6.15 6.15" fill="#ffff00" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
