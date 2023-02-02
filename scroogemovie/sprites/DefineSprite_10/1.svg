@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="459.65px" width="747.65px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 363.4, 172.0)">
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, -242.2524, -117.4192)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, 2.2633, -238.9476, -171.9808)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, -54.3524, -117.4192)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, 2.2633, 39.8476, -171.9808)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, 133.2976, -117.4192)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, 2.2633, 136.5024, -171.9808)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, 320.9476, -117.4192)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, 358.8976, -59.8192)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, 2.2633, -360.0476, -114.5308)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, 2.3982, -360.8976, -0.8368)" width="40.3" xlink:href="#sprite0"/>
+    <use height="53.65" transform="matrix(1.05, 0.0, 0.0, -1.1517, 252.4879, 2.0669)" width="70.55" xlink:href="#sprite1"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.3649, 359.8476, 56.9665)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.3764, 0.0, 0.0, -2.4464, 346.6596, 116.4965)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, 345.3976, 114.4808)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, -2.3629, 267.9024, 172.9403)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, -269.5024, 172.9308)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.4123, 0.0, 0.0, -2.4854, -248.34, 232.4409)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.3297, -250.8024, 231.0205)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, 384.2476, 287.6308)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, 2.2633, 291.0976, 233.0692)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.3427, 0.0, 0.0, -2.2633, 198.2003, 287.6308)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, 2.2633, 11.8524, 233.0692)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.303, 0.0, 0.0, -2.2633, -82.4241, 287.6308)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.2633, 0.0, 0.0, 2.2633, -175.6976, 233.0692)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, -178.9524, 287.6308)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(2.3043, 0.0, 0.0, 2.2633, -363.3983, 233.0692)" width="40.3" xlink:href="#sprite0"/>
+    <use height="53.65" transform="matrix(1.05, 0.0, 0.0, 1.1438, 252.6879, 171.045)" width="70.55" xlink:href="#sprite1"/>
+    <use height="53.65" transform="matrix(1.0, 0.0, 0.0, 1.0894, 255.45, 173.3545)" width="70.55" xlink:href="#sprite1"/>
+    <use height="53.65" transform="matrix(1.0, 0.0, 0.0, -1.0597, 255.45, -0.7998)" width="70.55" xlink:href="#sprite1"/>
+    <use height="53.65" transform="matrix(-1.05, 0.0, 0.0, -1.1573, -253.8879, 117.5665)" width="70.55" xlink:href="#sprite1"/>
+    <use height="53.65" transform="matrix(-1.0, 0.0, 0.0, -1.0597, -257.0, 115.2002)" width="70.55" xlink:href="#sprite1"/>
+    <use height="24.1" transform="matrix(-2.4353, 0.0, 0.0, -2.4595, -250.7898, -0.5379)" width="40.3" xlink:href="#sprite0"/>
+    <use height="24.1" transform="matrix(-2.2633, 0.0, 0.0, -2.2633, -253.8024, -2.5192)" width="40.3" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 19.55, 12.65)">
+      <use height="24.1" transform="matrix(1.0, 0.0, 0.0, 1.0, -19.55, -12.65)" width="40.3" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 19.55, 12.65)">
+      <path d="M19.85 7.75 L19.3 -11.35 7.35 -12.35 20.75 -12.65 19.85 7.75 M-19.55 -9.9 L-17.55 9.7 19.7 11.25 -19.2 11.45 -19.55 -9.9" fill="#6a0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M7.35 -12.35 L19.3 -11.35 19.85 7.75 19.7 11.25 -17.55 9.7 -19.55 -9.9 -19.55 -12.45 7.35 -12.35" fill="#470000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 35.25, 26.8)">
+      <use height="53.65" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.25, -26.8)" width="70.55" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 35.25, 26.8)">
+      <path d="M-31.1 -17.2 L-31.35 -20.3 Q-31.7 -22.75 -32.5 -26.2 L-32.45 -26.4 -32.4 -26.45 -32.4 -26.5 -31.05 -26.45 30.35 -22.9 34.9 21.45 34.95 25.3 32.55 25.35 26.15 25.55 25.85 25.55 -33.65 24.95 -33.75 24.95 -33.8 24.95 -33.8 24.8 -33.95 23.3 Q-34.35 19.05 -33.55 15.65 L-31.55 13.1 -30.1 7.85 Q-29.05 7.0 -28.5 5.95 -26.4 1.9 -26.5 -1.55 L-26.8 -3.85 -27.6 -5.95 -27.7 -6.15 -27.1 -5.45 -27.85 -6.35 -29.35 -8.45 Q-30.9 -10.5 -31.6 -10.75 L-31.75 -10.8 Q-31.15 -13.55 -31.1 -16.3 L-31.1 -17.2" fill="#330000" fill-rule="evenodd" stroke="none"/>
+      <path d="M-31.1 -17.2 L-31.1 -16.3 -31.1 -17.2 M-27.85 -6.35 L-27.1 -5.45 -27.7 -6.15 -27.9 -6.3 -27.85 -6.35 M-33.75 24.95 L-33.65 24.95 -33.65 25.05 -33.6 25.35 -33.75 24.95 M26.15 25.55 L32.55 25.35 32.55 25.55 26.15 25.55 M-32.4 -26.45 L-32.45 -26.4 -32.45 -26.45 -32.4 -26.45 M-23.8 -26.55 L-24.5 -26.55 -24.5 -26.6 -23.8 -26.55" fill="#330000" fill-rule="evenodd" stroke="none"/>
+      <path d="M-31.1 -16.3 Q-31.15 -13.55 -31.75 -10.8 L-31.6 -10.75 Q-30.9 -10.5 -29.35 -8.45 L-27.85 -6.35 -27.9 -6.3 Q-31.5 -10.15 -33.1 -10.3 -31.25 -13.8 -31.1 -16.3 M-26.5 -1.55 Q-26.4 1.9 -28.5 5.95 -29.05 7.0 -30.1 7.85 L-31.55 13.1 -33.55 15.65 Q-34.35 19.05 -33.95 23.3 L-33.8 24.8 Q-36.5 17.85 -34.2 14.85 -31.85 13.1 -30.95 6.6 L-29.6 5.0 Q-28.25 3.55 -26.5 -1.55 M-33.8 24.95 L-33.75 24.95 -33.8 24.95 M-33.65 24.95 L25.85 25.55 -31.55 26.85 -33.65 25.05 -33.65 24.95 M34.9 21.45 L30.35 -22.9 -31.05 -26.45 -31.8 -26.5 -24.5 -26.55 -23.8 -26.55 34.05 -26.8 34.9 21.45 M35.15 25.3 L35.15 23.8 35.3 25.3 35.15 25.3" fill="#330000" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

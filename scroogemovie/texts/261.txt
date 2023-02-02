@@ -1,0 +1,5 @@
+...and make
+--- RECORDSEPARATOR ---
+me a big pile 
+--- RECORDSEPARATOR ---
+of money!
